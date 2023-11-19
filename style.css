@@ -1,0 +1,26 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#comicForm {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#comicOutput {
+    margin-top: 30px;
+}
+
+.panel-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.loading-placeholder {
+    color: #999;
+    font-style: italic;
+    /* Add more styling as needed */
+}
